@@ -1,0 +1,10 @@
+C:\Users\javi\AppData\Roaming\Grasshopper\Libraries\net48\Kendama.gha
+C:\Users\javi\AppData\Roaming\Grasshopper\Libraries\net48\Kendama.pdb
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.csprojAssemblyReference.cache
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.Resource1.resources
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.csproj.GenerateResource.cache
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.AssemblyInfoInputs.cache
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.AssemblyInfo.cs
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.csproj.CoreCompileInputs.cache
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.gha
+C:\repos\Kendama\Kendama\obj\Debug\net48\Kendama.pdb

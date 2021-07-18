@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNvNvSiBFJYXN8mc30L+xoFaL/lKnCCNxxvu//rl4CMOYmtte92RiKy22fxRWWQqr8iSWZ39DH/2xu9gTd2p5A==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Kendama\\Kendama\\Kendama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javi\\.nuget\\packages\\grasshopper\\7.4.21078.1001\\grasshopper.7.4.21078.1001.nupkg.sha512",
+    "C:\\Users\\javi\\.nuget\\packages\\rhinocommon\\7.4.21078.1001\\rhinocommon.7.4.21078.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
